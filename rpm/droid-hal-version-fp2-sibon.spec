@@ -6,6 +6,6 @@
 %define vendor_pretty Fairphone
 %define device_pretty Fairphone 2
 # See ../droid-hal-version/droid-hal-device.inc for similar macros:
-%define have_native_vibrator 1
+%define have_vibrator_native 1
 %define have_led 1
 %include droid-hal-version/droid-hal-version.inc
